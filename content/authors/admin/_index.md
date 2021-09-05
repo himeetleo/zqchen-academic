@@ -14,7 +14,7 @@ social:
   - display:
       header: false
     icon_pack: fas
-    icon: researchgate
+    icon: <i class="fab fa-researchgate"></i>
     link: https://www.researchgate.net/profile/Zheqi-Chen
 organizations:
   - name: Zhejiang University
