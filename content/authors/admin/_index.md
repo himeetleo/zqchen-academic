@@ -1,6 +1,7 @@
 ---
 title: Zheqi Chen
 role: PhD candidate in Zhejiang University
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -24,19 +25,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Zhejiang University
+    url: https://www.zju.edu.cn/english/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD candidate
+      institution: Zhejiang Univeristy
+      year: 2019
+    - course: BEng in Chemical Engineering
+      institution: East China Univeristy of Science and Technoloy
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
