@@ -41,9 +41,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zheqi Chen is a PhD candidate in College of Chemical and Biological Engineering, Zhejiang Univeristy. He joined Prof. Yingwu Luo's group since Nov. 2018. His research interests include: soft matter chemistry & physics, rubber elasticity theory, block copolymers, smart materials & structures, applied mechanics. Recent works focus on how the hierarchical structures of block copolymer elastomers influence their electro-actuation behaviors.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
