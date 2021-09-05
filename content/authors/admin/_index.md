@@ -14,6 +14,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    icon_pack: fas
+    icon: <i class="fab fa-researchgate"></i>
+    link: https://www.researchgate.net/profile/Zheqi-Chen
 organizations:
   - name: Zhejiang University
     url: https://www.zju.edu.cn/english/
