@@ -1,7 +1,7 @@
 ---
 title: Zheqi Chen
 role: PhD candidate in Zhejiang University
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: "My research interests include: soft matter chemistry & physics, rubber
   elasticity theory, block copolymers, smart materials & structures, applied
   mechanics. Recent works focus on how the hierarchical structures of block
