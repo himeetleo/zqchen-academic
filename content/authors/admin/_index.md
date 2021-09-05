@@ -11,9 +11,6 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=YES343EAAAAJ&hl=zh-CN&oi=ao
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   - display:
       header: false
     icon_pack: fas
