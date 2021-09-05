@@ -1,7 +1,7 @@
 ---
 title: Zheqi Chen
 role: PhD candidate in Zhejiang University
-avatar_filename: ""
+avatar_filename: zqchen.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
