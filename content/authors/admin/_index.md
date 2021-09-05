@@ -7,9 +7,9 @@ bio: "My research interests include: soft matter chemistry & physics, rubber
   mechanics. Recent works focus on how the hierarchical structures of block
   copolymer elastomers influence their electro-actuation behaviors."
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Soft Matter
+  - Smart Materials
+  - Soft Robotics
 social:
   - icon: envelope
     icon_pack: fas
