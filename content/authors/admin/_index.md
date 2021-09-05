@@ -2,8 +2,10 @@
 title: Zheqi Chen
 role: PhD candidate in Zhejiang University
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include: soft matter chemistry & physics, rubber
+  elasticity theory, block copolymers, smart materials & structures, applied
+  mechanics. Recent works focus on how the hierarchical structures of block
+  copolymer elastomers influence their electro-actuation behaviors."
 interests:
   - Artificial Intelligence
   - Computational Linguistics
