@@ -11,11 +11,6 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=YES343EAAAAJ&hl=zh-CN&oi=ao
-  - display:
-      header: false
-    icon_pack: fas
-    icon: <i class="fab fa-researchgate"></i>
-    link: https://www.researchgate.net/profile/Zheqi-Chen
 organizations:
   - name: Zhejiang University
     url: https://www.zju.edu.cn/english/
